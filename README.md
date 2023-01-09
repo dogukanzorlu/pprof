@@ -16,7 +16,7 @@
 * [License](#license)
 
 # Documentation
-  Hex documentation: [Pprof](https://www.erlang.org/doc/man/fprof.html)
+  Hex documentation: [Pprof](https://hexdocs.pm/pprof/0.1.0/Pprof.html)
 
 # Aim
   The observation and profiling culture of erlang and elixir is different from other languages.

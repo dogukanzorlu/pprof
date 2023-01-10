@@ -41,7 +41,7 @@ defmodule Pprof do
 
     You can use with go pprof:
 
-      go tool pprof http://localhost:8080/debug/pprof?seconds=5&type=fprof
+      go tool pprof http://localhost:8080/debug/pprof/profile?seconds=5&type=fprof
 
     Also using with [Parca](https://github.com/parca-dev/parca) add configure in parca.yaml:
         # params:
